@@ -1,0 +1,15 @@
+{
+  "name": "zavieh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind":"tailwindcss -i ./tailwindCss/tailwind.css -o ./mainCss/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
